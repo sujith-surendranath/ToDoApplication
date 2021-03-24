@@ -1,0 +1,14 @@
+.todo-item {
+  background-color: white;
+  padding: 0.5em 1em;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+}
+.button-container > * {
+  margin: 0.5em;
+}
